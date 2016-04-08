@@ -27,3 +27,7 @@ Thanks.
        * [softmax](https://www.tensorflow.org/versions/r0.7/api_docs/python/nn.html#softmax)
        * [softmax_cross_entropy_with_logits](https://www.tensorflow.org/versions/r0.7/api_docs/python/nn.html#softmax_cross_entropy_with_logits)
        * [sparse_softmax_cross_entropy_with_logits](https://www.tensorflow.org/versions/r0.7/api_docs/python/nn.html#softmax_cross_entropy_with_logits)
+2. Softmax and Cross Entropy over time steps (for RNNs)
+   *   [Notebook File](https://github.com/breakds/tensorflow-snippets/tree/master/snippets/sequence_loss_by_example.ipynb)
+   *   Defined in [seq2seq.py](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/python/ops/seq2seq.py)
+
