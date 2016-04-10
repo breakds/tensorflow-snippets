@@ -31,3 +31,10 @@ Thanks.
    *   [Notebook File](https://github.com/breakds/tensorflow-snippets/tree/master/snippets/sequence_loss_by_example.ipynb)
    *   Defined in [seq2seq.py](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/python/ops/seq2seq.py)
 
+3. Max and Min (argmax and reduce_max) of tensors
+   *   [Notebook File](https://github.com/breakds/tensorflow-snippets/tree/master/snippets/reduce_max_and_argmax.ipynb)
+   *   Official Documentation
+       *   [reduce_max](https://www.tensorflow.org/versions/r0.7/api_docs/python/math_ops.html#reduce_max)
+       *   [reduce_min](https://www.tensorflow.org/versions/r0.7/api_docs/python/math_ops.html#reduce_min)
+       *   [argmax](https://www.tensorflow.org/versions/r0.7/api_docs/python/math_ops.html#argmax)
+       *   [argmin](https://www.tensorflow.org/versions/r0.7/api_docs/python/math_ops.html#argmin)
