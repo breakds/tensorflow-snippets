@@ -1,0 +1,10 @@
+package char_rnn;
+
+message ModelOptions {
+
+}
+
+message Config {
+  optional string path = 1;
+  
+}
